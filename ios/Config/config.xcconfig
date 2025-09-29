@@ -3,7 +3,7 @@ PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 BUNDLE_DISPLAY_NAME = Mobile Inspection App
 BUNDLE_IDENTIFIER = tax.com.inspection.app
 
-RUNTIME_URL = http:\/\/10.46.1.21:8080
+RUNTIME_URL = http:\/\/adevinfinmaa1.tax.ae/
 
 PRODUCT_NAME = MobileInspectio
 
